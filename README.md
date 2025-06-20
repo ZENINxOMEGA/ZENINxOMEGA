@@ -50,6 +50,14 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZENINxOMEGA&theme=tokyonight" />
 </p>
 
+## 🐍 My Contributions Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZENINxOMEGA/ZENINxOMEGA/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZENINxOMEGA/ZENINxOMEGA/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ZENINxOMEGA/ZENINxOMEGA/output/github-snake.svg" />
+</picture>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ZENINxOMEGA&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
