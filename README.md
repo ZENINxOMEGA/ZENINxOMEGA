@@ -25,11 +25,32 @@
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZENINxOMEGA&show_icons=true&theme=dark&hide_border=false&cache_seconds=1800)<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZENINxOMEGA&theme=dark&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZENINxOMEGA&layout=compact&theme=dark&hide_border=false&cache_seconds=1800)
+## ⚡ Statistics
 
-## 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZENINxOMEGA&show_icons=true&theme=radical&hide_border=true" alt="Aniket's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=ZENINxOMEGA&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZENINxOMEGA&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZENINxOMEGA&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZENINxOMEGA&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZENINxOMEGA&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ZENINxOMEGA&theme=tokyonight&utcOffset=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZENINxOMEGA&theme=tokyonight" />
+</p>
+
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ZENINxOMEGA&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
