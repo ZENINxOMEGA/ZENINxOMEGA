@@ -29,7 +29,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZENINxOMEGA&show_icons=true&theme=radical&hide_border=true" alt="Aniket's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=ZENINxOMEGA&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ZENINxOMEGA&theme=radical&hide_border=true&timestamp=20250623" alt="GitHub Streak" />
 </p>
 
 <p align="center">
