@@ -62,5 +62,5 @@
 
 ---
 <p align="center">
-  <img src="https://profile-counter.glitch.me/ZENINxOMEGA/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=ZENINxOMEGA&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
 </p>
