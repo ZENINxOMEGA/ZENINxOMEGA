@@ -50,9 +50,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZENINxOMEGA&theme=tokyonight" />
 </p>
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ZENINxOMEGA&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZENINxOMEGA&theme=radical&hide_border=true"/>
 </p>
 
 ## 🐍 Contribution Snake
