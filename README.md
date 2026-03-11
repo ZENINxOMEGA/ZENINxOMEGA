@@ -72,19 +72,43 @@
   <img src="https://github.com/ZENINxOMEGA/ZENINxOMEGA/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
-
 ### ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
-
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600"/>
 </p>
 
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/ZENINxOMEGA">
+<img src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+
+<a href="https://www.linkedin.com/in/aniket-sharma-20050428a/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="https://x.com/AniketX2914">
+<img src="https://skillicons.dev/icons?i=twitter" height="40" />
+</a>
+
+<a href="https://www.instagram.com/aniketsharma2914/?hl=en">
+<img src="https://skillicons.dev/icons?i=instagram" height="40" />
+</a>
+
+<a href="mailto:aniketsharma2914@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+
+</p>
+
 ---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ZENINxOMEGA&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
 </p>
