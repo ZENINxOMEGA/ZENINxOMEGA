@@ -1,3 +1,15 @@
+<!-- 🔥 Banner -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" />
+</div>
+
+<!-- Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&color=00E8F8&center=true&vCenter=true&width=720&lines=Hi+👋+I'm+Aniket+Sharma;CS+Student+%7C+Data+Analytics+Learner;Exploring+AI,+ML+%26+GenAI;Coding.+Learning.+Improving.;President+%40+GLAU+Esports+Club" />
+</div>
+
+---
+
 # 💫 About Me:
 👋 Hi, I’m new to GitHub and excited to learn and grow.<br>📖 Currently exploring programming languages like Python, C, and Java.<br>🎮 Passionate about esports and gaming.<br>🧠 Eager to improve problem-solving skills and understand algorithms.<br>🚀 Looking forward to contributing and collaborating as I learn.
 
@@ -60,9 +72,16 @@
   <img src="https://github.com/ZENINxOMEGA/ZENINxOMEGA/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
+
 ### ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600"/>
 </p>
 
 ---
