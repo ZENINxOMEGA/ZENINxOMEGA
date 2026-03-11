@@ -11,12 +11,13 @@
 ---
 
 # 💫 About Me:
-👋 Hi, I’m new to GitHub and excited to learn and grow.<br>📖 Currently exploring programming languages like Python, C, and Java.<br>🎮 Passionate about esports and gaming.<br>🧠 Eager to improve problem-solving skills and understand algorithms.<br>🚀 Looking forward to contributing and collaborating as I learn.
+👋 Hi, I’m new to GitHub and excited to learn and grow.<br>
+📖 Currently exploring programming languages like Python, C, and Java.<br>
+🎮 Passionate about esports and gaming.<br>
+🧠 Eager to improve problem-solving skills and understand algorithms.<br>
+🚀 Looking forward to contributing and collaborating as I learn.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/WFxnmRVB) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aniket-sharma-20050428a) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aniketsharma2914@gmail.com) 
+---
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -36,16 +37,18 @@
 ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) 
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
 
+---
+
 # 📊 GitHub Stats:
 ## ⚡ Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZENINxOMEGA&show_icons=true&theme=radical&hide_border=true" alt="Aniket's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=ZENINxOMEGA&theme=radical&hide_border=true&timestamp=20250623" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZENINxOMEGA&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=ZENINxOMEGA&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZENINxOMEGA&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZENINxOMEGA&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -62,53 +65,47 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZENINxOMEGA&theme=tokyonight" />
 </p>
 
+---
+
 ## 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZENINxOMEGA&theme=radical&hide_border=true"/>
 </p>
 
+---
+
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/ZENINxOMEGA/ZENINxOMEGA/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://github.com/ZENINxOMEGA/ZENINxOMEGA/blob/output/github-contribution-grid-snake.svg"/>
 </p>
+
+---
 
 ### ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
+---
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600"/>
 </p>
 
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/ZENINxOMEGA">
-<img src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
-
-<a href="https://www.linkedin.com/in/aniket-sharma-20050428a/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-
-<a href="https://x.com/AniketX2914">
-<img src="https://skillicons.dev/icons?i=twitter" height="40" />
-</a>
-
-<a href="https://www.instagram.com/aniketsharma2914/?hl=en">
-<img src="https://skillicons.dev/icons?i=instagram" height="40" />
-</a>
-
-<a href="mailto:aniketsharma2914@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>
-
+  <a href="https://github.com/ZENINxOMEGA"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
+  <a href="https://www.linkedin.com/in/aniket-sharma-20050428a/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="https://x.com/AniketX2914"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
+  <a href="https://www.instagram.com/aniketsharma2914/?hl=en"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
+  <a href="mailto:aniketsharma2914@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZENINxOMEGA&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=ZENINxOMEGA&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
