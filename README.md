@@ -8,7 +8,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&color=00E8F8&center=true&vCenter=true&width=720&lines=Hi+👋+I'm+Aniket+Sharma;CS+Student+%7C+Data+Analytics+Learner;Exploring+AI,+ML+%26+GenAI;Coding.+Learning.+Improving.;President+%40+GLAU+Esports+Club" />
 </div>
 
----
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+</p>
 
 # 💫 About Me:
 👋 Hi, I’m new to GitHub and excited to learn and grow.<br>
@@ -17,7 +19,9 @@
 🧠 Eager to improve problem-solving skills and understand algorithms.<br>
 🚀 Looking forward to contributing and collaborating as I learn.
 
----
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+</p>
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -37,75 +41,88 @@
 ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) 
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
 
----
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+</p>
 
 # 📊 GitHub Stats:
 ## ⚡ Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZENINxOMEGA&show_icons=true&theme=radical&hide_border=true"/>
-  <img src="https://streak-stats.demolab.com/?user=ZENINxOMEGA&theme=radical&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ZENINxOMEGA&show_icons=true&theme=radical&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=ZENINxOMEGA&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZENINxOMEGA&layout=compact&theme=radical&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZENINxOMEGA&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZENINxOMEGA&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZENINxOMEGA&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZENINxOMEGA&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZENINxOMEGA&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZENINxOMEGA&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ZENINxOMEGA&theme=tokyonight&utcOffset=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZENINxOMEGA&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ZENINxOMEGA&theme=tokyonight&utcOffset=8"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZENINxOMEGA&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZENINxOMEGA&theme=tokyonight"/>
 </p>
 
----
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+</p>
 
 ## 📈 Contribution Graph
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZENINxOMEGA&theme=radical&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZENINxOMEGA&theme=radical&hide_border=true"/>
 </p>
 
----
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+</p>
 
 ## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://github.com/ZENINxOMEGA/ZENINxOMEGA/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/ZENINxOMEGA/ZENINxOMEGA/blob/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
----
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+</p>
 
 ### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
----
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600"/>
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+</p>
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/ZENINxOMEGA"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
-  <a href="https://www.linkedin.com/in/aniket-sharma-20050428a/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="https://x.com/AniketX2914"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
-  <a href="https://www.instagram.com/aniketsharma2914/?hl=en"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
-  <a href="mailto:aniketsharma2914@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+<a href="https://github.com/ZENINxOMEGA"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+<a href="https://www.linkedin.com/in/aniket-sharma-20050428a/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<a href="https://x.com/AniketX2914"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+<a href="https://www.instagram.com/aniketsharma2914/?hl=en"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+<a href="mailto:aniketsharma2914@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 </p>
 
----
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZENINxOMEGA&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=ZENINxOMEGA&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
